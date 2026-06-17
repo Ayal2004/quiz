@@ -33,6 +33,7 @@ function affichertheme() {
   });
 };
 
+
 function choitheme(themechoisi) {
   theme = themechoisi
   document.getElementById("theme").textContent = ""

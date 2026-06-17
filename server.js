@@ -16,6 +16,7 @@ const PORT = process.env.PORT || 3000;                  // (garde 3001 si tu l'a
 // Sert les fichiers du dossier "public"
 app.use(express.static('public'));
 
+
 // Permet au serveur de comprendre les données JSON envoyées
 // par une page (indispensable pour recevoir une question).
 app.use(express.json());
