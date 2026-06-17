@@ -11,7 +11,7 @@ const express = require('express');
 const fs = require('fs');           // pour lire ET écrire des fichiers
 
 const app = express();
-const PORT = 3000;                  // (garde 3001 si tu l'avais changé)
+const PORT = process.env.PORT || 3000;                  // (garde 3001 si tu l'avais changé)
 
 // Sert les fichiers du dossier "public"
 app.use(express.static('public'));
