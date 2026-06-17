@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+  ============================================================
+   exercice-quiz.html  —  Exercice : rendre le quiz VIVANT
+  ------------------------------------------------------------
+   Ouvre ce fichier avec Live Server (clic droit -> Open with
+   Live Server). Tout est déjà prêt SAUF une chose : la partie
+   qui décide si la réponse est bonne ou mauvaise.
+   C'est TOI qui vas l'écrire, plus bas dans le <script>.
+  ============================================================
+-->
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exercice Quiz</title>
+
+  <!-- Un petit style pour que ce soit agréable. Pas besoin d'y toucher. -->
+</head>
+
+<body>
+  <a href="admin.html">Ajouter vos propres questions</a>
+  <div class="titrhau">
+    <span class="h-de">Quizzz</span>
+  </div>
+  <div id="score">
+    <h1></h1>
+  </div>
+
+  <h1 id="ChoixTheme">Choisissez votre theme</h1>
+  <div id="theme"></div>
+  <h1 id="question">La question s'affichera ici</h1>
+  <h2 id="theme"></h2>
+
+  <!-- Les boutons de réponse seront ajoutés ici automatiquement -->
+  <div id="reponses"></div>
+
+  <!-- Le message "Bravo" ou "Raté" s'affichera ici -->
+  <div id="resultat"></div>
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>

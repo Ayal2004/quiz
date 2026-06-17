@@ -1,0 +1,636 @@
+[
+  {
+    "texte": "Quel aliment est principalement riche en protéines ?",
+    "reponses": [
+      "Pain",
+      "Poulet",
+      "Pomme",
+      "Riz"
+    ],
+    "bonneReponse": 1,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quel minéral est important pour les os ?",
+    "reponses": [
+      "Fer",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "bonneReponse": 1,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quelle boisson est essentielle à la vie ?",
+    "reponses": [
+      "Soda",
+      "Jus",
+      "Eau",
+      "Café"
+    ],
+    "bonneReponse": 2,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quel aliment contient beaucoup de fibres ?",
+    "reponses": [
+      "Légumes",
+      "Bonbons",
+      "Beurre",
+      "Huile"
+    ],
+    "bonneReponse": 0,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quelle vitamine est produite grâce au soleil ?",
+    "reponses": [
+      "A",
+      "B12",
+      "C",
+      "D"
+    ],
+    "bonneReponse": 3,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quel pays est le plus vaste du monde ?",
+    "reponses": [
+      "Canada",
+      "Russie",
+      "Chine",
+      "États-Unis"
+    ],
+    "bonneReponse": 1,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel fleuve traverse Paris ?",
+    "reponses": [
+      "Loire",
+      "Rhône",
+      "Seine",
+      "Garonne"
+    ],
+    "bonneReponse": 2,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quelle est la capitale du Japon ?",
+    "reponses": [
+      "Osaka",
+      "Kyoto",
+      "Tokyo",
+      "Nagoya"
+    ],
+    "bonneReponse": 2,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel continent est le plus peuplé ?",
+    "reponses": [
+      "Europe",
+      "Afrique",
+      "Amérique",
+      "Asie"
+    ],
+    "bonneReponse": 3,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel est le plus haut sommet du monde ?",
+    "reponses": [
+      "Mont Blanc",
+      "Everest",
+      "K2",
+      "Kilimandjaro"
+    ],
+    "bonneReponse": 1,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel organe permet de respirer ?",
+    "reponses": [
+      "Foie",
+      "Poumons",
+      "Estomac",
+      "Reins"
+    ],
+    "bonneReponse": 1,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Combien de dents possède normalement un adulte ?",
+    "reponses": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "bonneReponse": 2,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Quel est le plus grand organe du corps humain ?",
+    "reponses": [
+      "Peau",
+      "Foie",
+      "Cœur",
+      "Poumon"
+    ],
+    "bonneReponse": 0,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Quel gaz les plantes absorbent-elles ?",
+    "reponses": [
+      "Oxygène",
+      "Hydrogène",
+      "CO₂",
+      "Azote"
+    ],
+    "bonneReponse": 2,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Quel est le centre de commande du corps ?",
+    "reponses": [
+      "Cerveau",
+      "Cœur",
+      "Foie",
+      "Estomac"
+    ],
+    "bonneReponse": 0,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Combien font 15 × 4 ?",
+    "reponses": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "bonneReponse": 1,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Combien font 144 ÷ 12 ?",
+    "reponses": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "bonneReponse": 2,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Quel est le carré de 9 ?",
+    "reponses": [
+      "72",
+      "81",
+      "90",
+      "99"
+    ],
+    "bonneReponse": 1,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Combien font 7³ ?",
+    "reponses": [
+      "343",
+      "49",
+      "294",
+      "512"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Quel est le nombre premier ?",
+    "reponses": [
+      "21",
+      "35",
+      "17",
+      "27"
+    ],
+    "bonneReponse": 2,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Qui a peint Les Tournesols ?",
+    "reponses": [
+      "Monet",
+      "Van Gogh",
+      "Picasso",
+      "Matisse"
+    ],
+    "bonneReponse": 1,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quelle couleur est complémentaire du rouge ?",
+    "reponses": [
+      "Vert",
+      "Bleu",
+      "Jaune",
+      "Orange"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel mouvement artistique est associé à Picasso ?",
+    "reponses": [
+      "Cubisme",
+      "Baroque",
+      "Romantisme",
+      "Impressionnisme"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel logiciel sert à retoucher des photos ?",
+    "reponses": [
+      "Photoshop",
+      "Excel",
+      "Chrome",
+      "VLC"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel artiste a peint Impression, soleil levant ?",
+    "reponses": [
+      "Monet",
+      "Manet",
+      "Renoir",
+      "Degas"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Que signifie RAM ?",
+    "reponses": [
+      "Random Access Memory",
+      "Rapid Access Module",
+      "Read Access Memory",
+      "Random Active Memory"
+    ],
+    "bonneReponse": 0,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Quel langage est utilisé pour styliser une page web ?",
+    "reponses": [
+      "HTML",
+      "Python",
+      "CSS",
+      "SQL"
+    ],
+    "bonneReponse": 2,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Quel navigateur est développé par Google ?",
+    "reponses": [
+      "Firefox",
+      "Safari",
+      "Chrome",
+      "Edge"
+    ],
+    "bonneReponse": 2,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Quel composant exécute les calculs ?",
+    "reponses": [
+      "SSD",
+      "Carte mère",
+      "CPU",
+      "RAM"
+    ],
+    "bonneReponse": 2,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Que signifie USB ?",
+    "reponses": [
+      "Universal Serial Bus",
+      "United System Board",
+      "Universal System Bus",
+      "Unified Serial Board"
+    ],
+    "bonneReponse": 0,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Qui était l'empereur des Français en 1804 ?",
+    "reponses": [
+      "Louis XIV",
+      "Napoléon Ier",
+      "Louis XVI",
+      "Charles X"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "En quelle année Christophe Colomb arrive-t-il en Amérique ?",
+    "reponses": [
+      "1492",
+      "1453",
+      "1515",
+      "1789"
+    ],
+    "bonneReponse": 0,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Quel mur est tombé en 1989 ?",
+    "reponses": [
+      "Mur d'Hadrien",
+      "Mur de Berlin",
+      "Mur des Lamentations",
+      "Mur de Chine"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Qui était le Roi Soleil ?",
+    "reponses": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Quel événement débute en France en 1789 ?",
+    "reponses": [
+      "Première Guerre mondiale",
+      "Révolution française",
+      "Empire",
+      "Restauration"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Quelle céréale sert à fabriquer le pain ?",
+    "reponses": [
+      "Blé",
+      "Riz",
+      "Maïs",
+      "Orge"
+    ],
+    "bonneReponse": 0,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quel fruit est jaune à maturité ?",
+    "reponses": [
+      "Banane",
+      "Cerise",
+      "Prune",
+      "Fraise"
+    ],
+    "bonneReponse": 0,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quel pays a pour capitale Madrid ?",
+    "reponses": [
+      "Portugal",
+      "Italie",
+      "Espagne",
+      "Grèce"
+    ],
+    "bonneReponse": 2,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel océan borde la côte ouest de l'Amérique ?",
+    "reponses": [
+      "Atlantique",
+      "Pacifique",
+      "Arctique",
+      "Indien"
+    ],
+    "bonneReponse": 1,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel est le groupe sanguin universel donneur ?",
+    "reponses": [
+      "A+",
+      "AB+",
+      "O-",
+      "B+"
+    ],
+    "bonneReponse": 2,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Quel os protège le cerveau ?",
+    "reponses": [
+      "Fémur",
+      "Crâne",
+      "Tibia",
+      "Humérus"
+    ],
+    "bonneReponse": 1,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Combien font 99 + 1 ?",
+    "reponses": [
+      "99",
+      "100",
+      "101",
+      "98"
+    ],
+    "bonneReponse": 1,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Combien font 50 × 2 ?",
+    "reponses": [
+      "75",
+      "90",
+      "100",
+      "110"
+    ],
+    "bonneReponse": 2,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Quelle couleur obtient-on avec rouge et bleu ?",
+    "reponses": [
+      "Vert",
+      "Orange",
+      "Violet",
+      "Jaune"
+    ],
+    "bonneReponse": 2,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel support utilise souvent un peintre ?",
+    "reponses": [
+      "Toile",
+      "Clavier",
+      "SSD",
+      "Routeur"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel langage est exécuté dans le navigateur ?",
+    "reponses": [
+      "JavaScript",
+      "SQL",
+      "C",
+      "PHP"
+    ],
+    "bonneReponse": 0,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Quel appareil permet d'imprimer ?",
+    "reponses": [
+      "Scanner",
+      "Imprimante",
+      "Routeur",
+      "Switch"
+    ],
+    "bonneReponse": 1,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Qui a découvert la pénicilline ?",
+    "reponses": [
+      "Pasteur",
+      "Curie",
+      "Fleming",
+      "Einstein"
+    ],
+    "bonneReponse": 2,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Quel conflit a eu lieu entre 1939 et 1945 ?",
+    "reponses": [
+      "Guerre froide",
+      "Seconde Guerre mondiale",
+      "Guerre de Cent Ans",
+      "Guerre de Corée"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "Quel aliment fournit principalement des lipides ?",
+    "reponses": [
+      "Huile",
+      "Pomme",
+      "Pain",
+      "Carotte"
+    ],
+    "bonneReponse": 0,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "Quelle est la capitale de l'Italie ?",
+    "reponses": [
+      "Milan",
+      "Naples",
+      "Rome",
+      "Turin"
+    ],
+    "bonneReponse": 2,
+    "theme": "Géographie"
+  },
+  {
+    "texte": "Quel organe filtre le sang ?",
+    "reponses": [
+      "Poumon",
+      "Rein",
+      "Peau",
+      "Œil"
+    ],
+    "bonneReponse": 1,
+    "theme": "SVT"
+  },
+  {
+    "texte": "Combien font 8 × 9 ?",
+    "reponses": [
+      "72",
+      "81",
+      "64",
+      "90"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arithmétique"
+  },
+  {
+    "texte": "Qui a peint Guernica ?",
+    "reponses": [
+      "Picasso",
+      "Monet",
+      "Van Gogh",
+      "Dali"
+    ],
+    "bonneReponse": 0,
+    "theme": "Arts Visuels"
+  },
+  {
+    "texte": "Quel système d'exploitation équipe la plupart des iPhone ?",
+    "reponses": [
+      "Android",
+      "Windows",
+      "iOS",
+      "Linux"
+    ],
+    "bonneReponse": 2,
+    "theme": "Tech"
+  },
+  {
+    "texte": "Qui a été le premier homme à marcher sur la Lune ?",
+    "reponses": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Youri Gagarine",
+      "John Glenn"
+    ],
+    "bonneReponse": 1,
+    "theme": "Histoire"
+  },
+  {
+    "texte": "mm",
+    "reponses": [
+      "kk",
+      "rr"
+    ],
+    "bonneReponse": 1,
+    "theme": "Nutrition"
+  },
+  {
+    "texte": "On dit",
+    "reponses": [
+      "Pain au chocolat",
+      "Chocolatine"
+    ],
+    "bonneReponse": 0,
+    "theme": "Nutrition"
+  }
+]

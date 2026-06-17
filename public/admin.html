@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ajouter une question</title>
+  <link rel="stylesheet" href="styleadmin.css">
+</head>
+
+<body>
+
+  <a href="index.html">&larr; Retour au quiz</a>
+  <fieldset>
+    <legend>Sélectionnez le theme de la question:</legend>
+    <div type="radio" class="thema" id="themes"> </div>
+  </fieldset>
+
+  <h1>Ajouter une question</h1>
+  <p>Coche la bonne réponse, puis clique sur Ajouter.</p>
+
+  <label for="texte">La question</label>
+  <input type="text" id="texte" placeholder="Ex : Quelle est la capitale de l'Italie ?" />
+
+  <label>Les réponses (coche la bonne)</label>
+
+  <div id="liste-reponses"></div>
+
+  <button type="button" class="btn-ajout-rep" onclick="ajouterLigneReponse()">+ Ajouter une réponse</button>
+
+
+
+  <br />
+  <button onclick="ajouter()">Ajouter la question</button>
+  <div id="message"></div>
+
+  <script src="scriptadmin.js"></script>
+
+</body>
+
+</html>
